@@ -9,7 +9,7 @@ public class deleteUserBean {
 	}
 
 	public void setEmail(String email) {
-		this.email = mail;
+		this.email = email;
 	}
 
 }
